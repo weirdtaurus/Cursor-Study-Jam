@@ -263,13 +263,6 @@ Track your progress through the study jam:
 - Code quality and best practices
 - AI-assisted development workflows
 
-## 📊 Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/holasoymalva/cursor-studyjam)
-![GitHub forks](https://img.shields.io/github/forks/holasoymalva/cursor-studyjam)
-![GitHub issues](https://img.shields.io/github/issues/holasoymalva/cursor-studyjam)
-![Contributors](https://img.shields.io/github/contributors/holasoymalva/cursor-studyjam)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
