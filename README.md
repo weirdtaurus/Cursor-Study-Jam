@@ -201,45 +201,6 @@ We welcome contributions from the community! Here's how you can help:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📋 Challenge Submission Format
-
-When submitting solutions, please follow this format:
-
-```markdown
-# Challenge: [Challenge Name]
-
-## Approach
-Brief description of your solution approach and methodology
-
-## Cursor Features Used
-- **AI Chat**: How you used Cursor's AI chat for problem-solving
-- **Code Generation**: AI-assisted code writing techniques
-- **Debugging**: AI-powered debugging and error resolution
-- **Refactoring**: Code improvement using Cursor's suggestions
-
-## Key Techniques
-Share specific Cursor workflows and techniques you discovered
-
-## Code Quality
-- **Testing**: How you tested your solution
-- **Performance**: Any optimizations made
-- **Best Practices**: Code organization and patterns used
-
-## Code
-```language
-// Your solution code here
-```
-
-## Time Complexity
-O(n) - Brief explanation
-
-## Space Complexity
-O(1) - Brief explanation
-
-## Lessons Learned
-What you learned from this challenge
-```
-
 ## 🏅 Recognition Program
 
 ### Badges & Achievements
@@ -326,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding with AI! 🚀🤖**
 
-*Created and maintained by [@holasoymalva](https://github.com/holasoymalva) - Cursor Ambassador*
+*Created and maintained by [@holasoymalva](https://github.com/holasoymalva) *
 
 ---
 
